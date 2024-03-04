@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BioinfSam
-- 👀 I’m interested in finding a new bioinformatics position and building my bioinformatics portfolio
+- 👀 I’m interested in building my bioinformatics portfolio and showing off some of my expertise
 - 🌱 I’m currently learning python.  Well, I'm very familiar with it, but I'm actually going through the steps to formally learn it.
 - 💞️ I’m looking to collaborate on any open source bioinformatics projects
 - 📫 How to reach me sdarko at gwu dot edu
